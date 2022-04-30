@@ -1,4 +1,4 @@
-*👋 Hi there
+## 👋 Hi there
 I'm Myung Seok Ko!
 
 * 👔 이메일 : msk724012@gmail.com
