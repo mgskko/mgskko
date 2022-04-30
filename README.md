@@ -1,4 +1,9 @@
-### Hi there 👋
+### 데이터 사이언티스트가 되고 싶은 고명석입니다!
+
+ 이메일 : msk724012@gmail.com
+
+ 블로그 : https://mgskko.github.io/
+
 
 <!--
 **mgskko/mgskko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
