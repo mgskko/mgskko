@@ -4,6 +4,7 @@ I'm Myung Seok Ko!
 * 👔 이메일 : msk724012@gmail.com
 
 * 🌱 블로그 : https://mgskko.github.io/
+ ![Metrics](/github-metrics-mgskko.svg)
 
 <!--
 **mgskko/mgskko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
