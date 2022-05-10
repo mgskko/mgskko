@@ -20,11 +20,11 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: msskko's metrics build
-        uses: msskko/metrics@latest
+      - name: mgskko's metrics build
+        uses: mgskko/metrics@latest
         with:
           token: ${{ secrets.MGSKKO_ME_TOKEN }}
-          filename: github-metrics-msskko.svg
+          filename: github-metrics-mgskko.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
