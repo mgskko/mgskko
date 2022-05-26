@@ -4,7 +4,6 @@ I'm Myung Seok Ko!
 * 👔 이메일 : msk724012@gmail.com
 * 🌱 블로그 : https://mgskko.github.io/
 
-
  ![Metrics](/github-metrics-mgskko.svg)
 
 <!--
