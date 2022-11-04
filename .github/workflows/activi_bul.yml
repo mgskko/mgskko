@@ -23,7 +23,7 @@ jobs:
       - name: mgskko's metrics build
         uses: mgskko/metrics@latest
         with:
-          token: ${{ secrets.MGSKKO_ME_TOKEN }}
+          token: ${{ secrets.MGSKKO_METRICS_TOKEN }}
           filename: github-metrics-mgskko.svg
           base: ""
           plugin_isocalendar: yes
