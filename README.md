@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgskko&theme=aura_dark&show_icons=true)
+[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgskko)](https://github.com/anuraghazra/mgskko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgskko&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mgskko)
 
