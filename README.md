@@ -1,5 +1,4 @@
-## 👋 Hi there
-I'm Myung Seok Ko!
+## 👋 Hi
 
 <!--
  ![Metrics](/github-metrics-mgskko.svg)
