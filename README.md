@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgskko)](https://github.com/anuraghazra/mgskko)
-
