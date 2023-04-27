@@ -1,4 +1,4 @@
-## 👋 Hi
+## 👋 😄 Hi
 
 <!--
  ![Metrics](/github-metrics-mgskko.svg)
